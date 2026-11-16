@@ -1,5 +1,7 @@
 # Skills For AI Agent
 
+English | [简体中文](./README.zh-CN.md)
+
 A collection of production-grade agent skills.
 
 ## Skills
